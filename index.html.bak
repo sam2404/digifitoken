@@ -40,13 +40,13 @@
                 <div class="mob-menu">MENU</div>
                 <ul class="main-menu sm sm-clean">
                     <li><a href="#home">Home</a></li>
-                    <li><a href="#services">Services</a></li>
-                    <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#news">News</a></li>
-                    <li><a href="#video">Video</a></li>
-                    <li><a href="#skills">Skills</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#services">Digi-Fi</a></li>
+                    <!--<li><a href="#portfolio">Explore</a></li>-->
+                    <li><a href="#about">Dao</a></li>
+                    <li><a href="#news">Road Map</a></li>
+                    <li><a href="#video">Tokenomix</a></li>
+                    <li><a href="#skills">Digit Dao</a></li>
+                    <li><a href="#contact">Reach Us</a></li>
                 </ul>
             </nav>
         </div>
@@ -60,7 +60,7 @@
                 <img class="top-logo" src="demo-images/logo.png" alt="Boxus" />
                 <br>
                 <h1 class="big-title">A Sustainable<span>Auto-Staking, Compounding & Burning Protocol</span></h1>
-                <p class="title-desc"> Be with us!!</p>
+                <p class="title-desc"> 💰You Earn every Minute</p>
             </div>
         </div>
         
@@ -75,7 +75,7 @@
                     <div class="section-num">
                         <span>01</span>
                     </div>
-                    <h2 class="entry-title">Digit-FI</h2>
+                    <h2 class="entry-title">Digi-FI</h2>
                 </div>
                 <div class="section-content-holder right">
                     <div class="content-wrapper">
@@ -92,7 +92,7 @@
                                     <div class="service-holder ">
                                         <img src="demo-images/icon_01.png" alt="">
                                         <div class="service-content-holder">
-                                            <div class="service-title">Hold DIGI-FI</div>
+                                            <div class="service-title">Risk-Free Investment Fund</div>
                                             <div class="service-content">
                                                 Simply Hold $DIGIFI and watch the tokens grow in your wallet, Thanks to Our Unique Digital Stake and Burn Algorithm.<br />
                                             </div>
@@ -101,27 +101,27 @@
                                     <div class="service-holder ">
                                         <img src="demo-images/icon_02.png" alt="">
                                         <div class="service-content-holder">
-                                            <div class="service-title">MOBILE APPS</div>
+                                            <div class="service-title">Treasury</div>
                                             <div class="service-content">
-                                                Disum lorem sit amet consectetur adipisicing elit sed eiusmod tempor incididunt ut donecos dolore ipsum temporest.<br />
+                                                1000000%APY, Holders do not need to stake or manually claim earnings. Our Smart contract award Earnings directly to the holder's balance<br />
                                             </div>
                                         </div>
                                     </div>
                                     <div class="service-holder ">
                                         <img src="demo-images/icon_03.png" alt="">
                                         <div class="service-content-holder">
-                                            <div class="service-title">WEB</div>
+                                            <div class="service-title">Digit Burner</div>
                                             <div class="service-content">
-                                                Polor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt ut dolore magna labore eiusmod.<br />
+                                                $Digit-Fi is the native token for Staking incentives. Tax distribution benefits every token holder in Digit-fi. merely for holding $Digit-Fi tokens.<br />
                                             </div>
                                         </div>
                                     </div>
                                     <div class="service-holder ">
                                         <img src="demo-images/icon_04.png" alt="">
                                         <div class="service-content-holder">
-                                            <div class="service-title">GRAPHIC</div>
+                                            <div class="service-title">Auto Staking & Compounding</div>
                                             <div class="service-content">
-                                                Cadipisicing elit sed eiusmod tempor incididunt ut labore lorem ipsum dolor sit amet consectetur lorem ipsum dolor sit amet.<br />
+                                                Quick and safe way to lock up any BEP-20 based token in seconds, including LP tokens.<br />
                                             </div>
                                         </div>
                                     </div>
@@ -176,13 +176,13 @@
 
 
         <!-- Portfolio -->
-        <div id="portfolio" class="section">
+        <!--<div id="portfolio" class="section">
             <div class="block content-1170 center-relative">
                 <div class="section-title-holder right">
                     <div class="section-num">
                         <span>02</span>
                     </div>
-                    <h2 class="entry-title">Portfolio</h2>
+                    <h2 class="entry-title">TokenOmics</h2>
                 </div>
                 <div class="section-content-holder portfolio-holder left">
                     <div class="grid" id="portfolio-grid">
@@ -262,14 +262,14 @@
             <div class="block content-1170 center-relative">
                 <div class="section-title-holder left">
                     <div class="section-num">
-                        <span>03</span>
+                        <span>02</span>
                     </div>
-                    <h2 class="entry-title">CRAFTERS</h2>
+                    <h2 class="entry-title">Explore</h2>
                 </div>
                 <div class="section-content-holder right">
                     <div class="content-wrapper">
                         <div class="content-title-holder">
-                            <p class="content-title">About</p>
+                            <p class="content-title">DAO</p>
                         </div>
                         <div class="one_half ">
                             Polor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt ut dolore magna labore eiusmod. Lorem ipsum <strong>dolor sit amet</strong> consectetur est adipisicing elit, sed do eiusmod tempor
@@ -371,10 +371,10 @@
                 <div class="section-title-holder right">
                     <div class="section-num">
                         <span>
-                            04
+                            03
                         </span>
                     </div>
-                    <h2 class="entry-title">STORIES</h2>
+                    <h2 class="entry-title">RoadMap</h2>
                 </div>
                 <div class="section-content-holder left">
                     <div class="content-wrapper">
@@ -383,15 +383,15 @@
                             <article class="relative blog-item-holder center-relative">
                                 <div class="num">01</div>
                                 <div class="info">
-                                    <div class="author vcard ">Robert Williams</div>
+                                    <div class="author vcard ">Difi-Q1</div>
                                     <div class="cat-links">
                                         <ul>
-                                            <li><a href="#">BRANDING</a></li>
+                                            <li><a href="#">Apr 2022</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <h3 class="entry-title">
-                                    <a href="#">Eiusmod tempor incididunt ut dolore magna labore eiusmod ipsum dolor</a>
+                                    <a href="#">Digit Finance Launch</a>
                                 </h3>
                                 <div class="clear"></div>
                             </article>
@@ -399,15 +399,15 @@
                             <article class="relative blog-item-holder center-relative">
                                 <div class="num">02</div>
                                 <div class="info">
-                                    <div class="author vcard ">Jim Davis</div>
+                                    <div class="author vcard ">Difi-Q2</div>
                                     <div class="cat-links">
                                         <ul>
-                                            <li><a href="#">TECH</a></li>
+                                            <li><a href="#">Sept 2022</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <h3 class="entry-title">
-                                    <a href="#">Incididunt ut dolore magna labore eiusmod lorem ipsum dolor sit</a>
+                                    <a href="#">Financial announcement & Promotional Partnership</a>
                                 </h3>
                                 <div class="clear"></div>
                             </article>
@@ -415,15 +415,15 @@
                             <article class="relative blog-item-holder center-relative">
                                 <div class="num">03</div>
                                 <div class="info">
-                                    <div class="author vcard ">Ann Peterson</div>
+                                    <div class="author vcard ">Difi-Q3</div>
                                     <div class="cat-links">
                                         <ul>
-                                            <li><a href="#">CRAFTING</a></li>
+                                            <li><a href="#">Dec-2022</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <h3 class="entry-title">
-                                    <a href="#">Labore eiusmod lorem ipsum dolor sit amet nunc labore incididunt ut dolore</a>
+                                    <a href="#">Multichain Intergration & Digit Scan</a>
                                 </h3>
                                 <div class="clear"></div>
                             </article>
@@ -431,21 +431,21 @@
                             <article class="relative blog-item-holder center-relative">
                                 <div class="num">04</div>
                                 <div class="info">
-                                    <div class="author vcard ">Robert Williams</div>
+                                    <div class="author vcard ">Difi-Q4</div>
                                     <div class="cat-links">
                                         <ul>
-                                            <li><a href="#">CRAFTING</a></li>
+                                            <li><a href="#">March 2023</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <h3 class="entry-title">
-                                    <a href="#">Dolor sit amet nunc labore incididunt ut dolore magna labore eiusmod</a>
+                                    <a href="#">Finacial high yielding & multiple earning</a>
                                 </h3>
                                 <div class="clear"></div>
                             </article>
 
                             <div class="latest-post-bottom-text">
-                                <a href="#">GO TO BLOG</a>
+                                <a href="#">Update more</a>
                             </div>
                         </div>
 
@@ -465,23 +465,23 @@
                             <ul id="text1" class="slides testimonial">
                                 <li>
                                     <div class="testimonial-content">
-                                        <p class="testimonial-text">The difference between a Designer and Developer, when it comes to design skills, is the difference between shooting a bullet and throwing it.</p>
-                                        <p class="testimonial-author">SCOTT HANSELMAN</p>
+                                        <p class="testimonial-text">Too many people spend money they earned..to buy things they don't want..to impress people that they don't like.</p>
+                                        <p class="testimonial-author">Will Rogers</p>
                                     </div>
                                     <div class="clear">
                                     </div>
                                 </li>
                                 <li style="width: 500px;">
                                     <div class="testimonial-content">
-                                        <p class="testimonial-text">To create anything–whether a short story or a magazine profile or a film or a sitcom–is to believe, if only momentarily, you are capable of magic.</p>
-                                        <p class="testimonial-author">TOM BISSEL</p>
+                                        <p class="testimonial-text">Everyday is a bank account, and time is our currency. No one is rich, no one is poor, we've got 24 hours each.</p>
+                                        <p class="testimonial-author">Christopher Rice</p>
                                     </div>
                                     <div class="clear"></div>
                                 </li>
                                 <li>
                                     <div class="testimonial-content">
-                                        <p class="testimonial-text">As a profession, graphic designers have been shamefully remiss or ineffective about plying their craft for social or political betterment.</p>
-                                        <p class="testimonial-author">STEVEN HELLER</p>
+                                        <p class="testimonial-text">I will tell you the secret to getting rich on Wall Street. You try to be greedy when others are fearful. And you try to be fearful when others are greedy. </p>
+                                        <p class="testimonial-author">Warren Buffett</p>
                                     </div>
                                     <div class="clear"></div>
                                 </li>
@@ -498,18 +498,18 @@
         <!-- Video -->
         <div id="video" class="section">
             <div class="block content-1170 center-relative">
-                <div class="section-title-holder left">
+               <div class="section-title-holder left">
                     <div class="section-num">
                         <span>
-                            05
+                            04
                         </span>
                     </div>
-                    <h2 class="entry-title">OFFER</h2>
-                </div>
+                    <h2 class="entry-title">Tokenomix</h2>
+                </div>-->
                 <div class="section-content-holder right">
-                    <div class="content-wrapper">
+                   <div class="content-wrapper">
                         <div class="content-title-holder">
-                            <p class="content-title">Video</p>
+                            <p class="content-title">DigiFI</p>
                         </div>
                         <div class="one_half ">
                             Polor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt ut dolore magna labore eiusmod. Lorem ipsum <strong>dolor sit amet</strong> consectetur est adipisicing elit, sed do eiusmod tempor
@@ -524,12 +524,12 @@
                         <br>
                         <br>
                     </div>
-                    <div class="full-width ">
+                    <!--<div class="full-width ">
                         <a class="video-popup-holder" href="https://vimeo.com/157276599" data-rel="prettyPhoto[gallery-video1]">
                             <img class="thumb" src="demo-images/video_img.jpg" alt="">
                             <img class="popup-play" src="images/icon_video.svg" alt="Play">
                         </a>
-                    </div>
+                    </div>-->
                 </div>
                 <div class="clear"></div>
             </div>
@@ -548,19 +548,19 @@
                         <ul id="fwslider1" class="fw-image-slider">
                             <li class="fw-slide">
                                 <img src="demo-images/icon_editing.png" alt="">
-                                <p class="fw-slide-text">Video Editing</p>
+                                <p class="fw-slide-text">Automated LP</p>
                             </li>
                             <li class="fw-slide">
                                 <img src="demo-images/icon_clear.png" alt="">
-                                <p class="fw-slide-text">Premium Cleer</p>
+                                <p class="fw-slide-text">Risk Management</p>
                             </li>
                             <li class="fw-slide">
                                 <img src="demo-images/icon_display.png" alt="">
-                                <p class="fw-slide-text">For All Displays</p>
+                                <p class="fw-slide-text">Treasury</p>
                             </li>
                             <li class="fw-slide">
                                 <img src="demo-images/icon_time.png" alt="">
-                                <p class="fw-slide-text">Right On Time</p>
+                                <p class="fw-slide-text">Digit Lock</p>
                             </li>
                             <li class="fw-slide">
                                 <img src="demo-images/icon_ideas.png" alt="">
@@ -604,28 +604,28 @@
                         <br>
                         <div class="progress_bar ">
                             <div class="progress_bar_field_holder" style="width:81%;">
-                                <div class="progress_bar_title" style="color: #55B286">HTML</div>
+                                <div class="progress_bar_title" style="color: #55B286">treasury</div>
                                 <div class="progress_bar_percent_text" style="color: #55B286">81%</div>
                                 <div class="progress_bar_field_perecent" style="background-color:#32DB8A;"></div>
                             </div>
                         </div>
                         <div class="progress_bar ">
                             <div class="progress_bar_field_holder" style="width:93%;">
-                                <div class="progress_bar_title" style="color: #E3A536">CSS</div>
+                                <div class="progress_bar_title" style="color: #E3A536">Risk-Free</div>
                                 <div class="progress_bar_percent_text" style="color: #E3A536">93%</div>
                                 <div class="progress_bar_field_perecent" style="background-color:#FFBB42;"></div>
                             </div>
                         </div>
                         <div class="progress_bar ">
                             <div class="progress_bar_field_holder" style="width:72%;">
-                                <div class="progress_bar_title" style="color: #B24564">PSD</div>
+                                <div class="progress_bar_title" style="color: #B24564">Digiswap</div>
                                 <div class="progress_bar_percent_text" style="color: #B24564">72%</div>
                                 <div class="progress_bar_field_perecent" style="background-color:#E74C78;"></div>
                             </div>
                         </div>
                         <div class="progress_bar ">
                             <div class="progress_bar_field_holder" style="width:99%;">
-                                <div class="progress_bar_title" style="color: #468ac7">DESIGN</div>
+                                <div class="progress_bar_title" style="color: #468ac7">DigiLock</div>
                                 <div class="progress_bar_percent_text" style="color: #468ac7">99%</div>
                                 <div class="progress_bar_field_perecent" style="background-color:#4C9EE7;"></div>
                             </div>
@@ -665,9 +665,9 @@
                         </div>
                         <div class="clear"></div>
                     </div>
-                    <div class="full-width">
+                    <!--<div class="full-width">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4274.290564544589!2d-75.2952832049782!3d40.753669641460846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2srs!4v1444506658649" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-                    </div>
+                    </div>-->
                 </div>
                 <div class="clear"></div>
             </div>
@@ -679,7 +679,7 @@
             <div class="footer content-1170 center-relative">
                 <ul>
                     <li class="copyright-footer">
-                        © 2018 All rights reserved. | Boxus Template by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                        © 2018 All rights reserved. | <a href="https://digitfi.org" target="_blank">Digit-fi</a>
                     </li>
                     <li class="social-footer">
                         <a href="#"><span class="fa fa-twitter"></span></a>
